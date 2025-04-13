@@ -21,11 +21,11 @@
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["100051395813109"]
+    "whiteListIds": ["100051395813109" ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🫨🩷yöūr-bãby🫨🪿🪽",
-  "prefix": ".",
+  "nickNameBot": "[*]RXD°Your°Baby",
+  "prefix": "*",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -36,7 +36,7 @@
   "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
-      "email": "rambo12334cxly123@gmail.com",
+      "email": "romeobot555@gmail.com",
       "clientId": "695328982889-v1t85ej9aq1fvv0n4alp7rcbea9gkgvf.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04EyH1gbNUVv5CgYIARAAGAQSNwF-L9IrqcPCQD2QsuhCQ2XprHCTMrTnVPI6WvT9i73nnoi4XqfAD0_yDoGW_gtWUdIeVtANzao",
